@@ -19,7 +19,7 @@ Andrychowicz, Marcin, et al.. "Hindsight Experience Replay."
 
 
 ##  Deep Learning
-Cross-group reading list at the University of Michigan, run by students from Honglak Lee, Satinder Singh, and Jia Deng's groups.
+Cross-group reading list, run by students from Honglak Lee, Satinder Singh, and Jia Deng's groups.
 
 ### 2017 Fall
 Mishra, Nikhil, et al.. "Meta-Learning with Temporal Convolutions."
