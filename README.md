@@ -17,6 +17,9 @@ Denil, Misha, et al.. "Learning to Perform Physics Experiments via Deep Reinforc
 Andrychowicz, Marcin, et al.. "Hindsight Experience Replay."
 </br>[[pdf]](https://arxiv.org/pdf/1707.01495.pdf)
 
+Sasha Vezhnevets, Alexander, et al.. "FeUdal Networks for Hierarchical Reinforcment Learning."
+</br>[[pdf]](https://arxiv.org/pdf/1703.01161.pdf)
+
 
 ##  Deep Learning
 Cross-group reading list, run by students from Honglak Lee, Satinder Singh, and Jia Deng's groups.
