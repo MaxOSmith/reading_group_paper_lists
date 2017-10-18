@@ -30,3 +30,6 @@ Mishra, Nikhil, et al.. "Meta-Learning with Temporal Convolutions."
 
 Sermanet, Pierre, et al.. "Time-Contrastive Networks: Self-Supervised Learning from Video."
 </br>[[pdf]](https://arxiv.org/pdf/1704.06888.pdf)
+
+Strub, Florian, et al.. "End-to-end optimization of goal-driven and visually grounded dialogue systems."
+</br>[[pdf]](https://arxiv.org/pdf/1703.05423.pdf)
