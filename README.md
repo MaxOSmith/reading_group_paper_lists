@@ -1,6 +1,5 @@
 # University of Michigan Reading Lists
 
-
 ## Reinforcement Learning
 Reading list from Satinder Singh's group.
 
@@ -33,3 +32,12 @@ Sermanet, Pierre, et al.. "Time-Contrastive Networks: Self-Supervised Learning f
 
 Strub, Florian, et al.. "End-to-end optimization of goal-driven and visually grounded dialogue systems."
 </br>[[pdf]](https://arxiv.org/pdf/1703.05423.pdf)
+
+
+# Université de Montréal Reading Lists
+
+## Adversarial Learning Group
+
+### 2017 Fall
+Huang, Gabriel, et al.. "Adversarial Divergences are Good Task Losses for Generative Modeling."
+</br>[[pdf]](https://arxiv.org/pdf/1708.02511.pdf)
