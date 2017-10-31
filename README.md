@@ -41,3 +41,7 @@ Strub, Florian, et al.. "End-to-end optimization of goal-driven and visually gro
 ### 2017 Fall
 Huang, Gabriel, et al.. "Adversarial Divergences are Good Task Losses for Generative Modeling."
 </br>[[pdf]](https://arxiv.org/pdf/1708.02511.pdf)
+
+## Neuroscience & Biology
+Marblestone, Adam, et al.. "Towards an Integration of Deep Learning and Neuroscience."
+</br>[[html]](https://www.frontiersin.org/articles/10.3389/fncom.2016.00094/full)
