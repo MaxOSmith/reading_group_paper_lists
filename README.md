@@ -42,6 +42,19 @@ Strub, Florian, et al.. "End-to-end optimization of goal-driven and visually gro
 Huang, Gabriel, et al.. "Adversarial Divergences are Good Task Losses for Generative Modeling."
 </br>[[pdf]](https://arxiv.org/pdf/1708.02511.pdf)
 
+
 ## Neuroscience & Biology
+
+### 2017 Fall
 Marblestone, Adam, et al.. "Towards an Integration of Deep Learning and Neuroscience."
 </br>[[html]](https://www.frontiersin.org/articles/10.3389/fncom.2016.00094/full)
+
+
+## Language Understanding
+
+### 2017 Fall
+Gulcehre, Calgar, et al.. "Pointing the Unknown Words."
+</br>[[pdf]](https://arxiv.org/pdf/1603.08148.pdf)
+
+Merity, Stephen, et al.. "Pointer Sentinel Mixture Models."
+</br>[[pdf]](https://arxiv.org/pdf/1609.07843.pdf)
