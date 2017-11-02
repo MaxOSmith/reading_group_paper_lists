@@ -33,6 +33,9 @@ Sermanet, Pierre, et al.. "Time-Contrastive Networks: Self-Supervised Learning f
 Strub, Florian, et al.. "End-to-end optimization of goal-driven and visually grounded dialogue systems."
 </br>[[pdf]](https://arxiv.org/pdf/1703.05423.pdf)
 
+Santoro, Adam, et al.. "One-shot Learning with Memory-Augmented Neural Networks."
+</br>[[pdf]](https://arxiv.org/pdf/1605.06065.pdf)
+
 
 # Université de Montréal Reading Lists
 
