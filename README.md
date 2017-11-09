@@ -36,6 +36,9 @@ Strub, Florian, et al.. "End-to-end optimization of goal-driven and visually gro
 Santoro, Adam, et al.. "One-shot Learning with Memory-Augmented Neural Networks."
 </br>[[pdf]](https://arxiv.org/pdf/1605.06065.pdf)
 
+Sabour, Sara, et al.. "Dynamic Routing Between Capsules."
+</br>[[pdf]](https://arxiv.org/pdf/1710.09829.pdf)
+
 
 # Université de Montréal Reading Lists
 
