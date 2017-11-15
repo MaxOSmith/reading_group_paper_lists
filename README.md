@@ -64,6 +64,8 @@ Fedus, William, et al.. "Many Paths to Equilibrium: GANs Do Not Need to Decrease
 Marblestone, Adam, et al.. "Towards an Integration of Deep Learning and Neuroscience."
 </br>[[html]](https://www.frontiersin.org/articles/10.3389/fncom.2016.00094/full)
 
+Trubutschek, Darinka, et all.. "A theory of working memory without consciousness or sustained activity."
+</br>[[html]](https://elifesciences.org/articles/23871#774236895383547905-tw%231507396709455)
 
 ## Language Understanding
 
