@@ -39,6 +39,8 @@ Santoro, Adam, et al.. "One-shot Learning with Memory-Augmented Neural Networks.
 Sabour, Sara, et al.. "Dynamic Routing Between Capsules."
 </br>[[pdf]](https://arxiv.org/pdf/1710.09829.pdf)
 
+Dai, Jifeng, et al.. "Deformable Convolutional Networks."
+</br>[[pdf]](https://arxiv.org/pdf/1703.06211.pdf)
 
 # Université de Montréal Reading Lists
 
