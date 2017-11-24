@@ -69,6 +69,9 @@ Marblestone, Adam, et al.. "Towards an Integration of Deep Learning and Neurosci
 Trubutschek, Darinka, et all.. "A theory of working memory without consciousness or sustained activity."
 </br>[[html]](https://elifesciences.org/articles/23871#774236895383547905-tw%231507396709455)
 
+Abbott, Larry, et al.. "Building Functional Networks of Spiking Model Neurons."
+</br>[[html]](https://www.nature.com/articles/nn.4241)
+
 ## Language Understanding
 
 ### 2017 Fall
