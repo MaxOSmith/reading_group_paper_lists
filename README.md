@@ -19,6 +19,9 @@ Andrychowicz, Marcin, et al.. "Hindsight Experience Replay."
 Sasha Vezhnevets, Alexander, et al.. "FeUdal Networks for Hierarchical Reinforcment Learning."
 </br>[[pdf]](https://arxiv.org/pdf/1703.01161.pdf)
 
+Sabour, Sara, et al.. "Dynamic Routing Between Capsules."
+</br>[[pdf]](https://arxiv.org/pdf/1710.09829.pdf)
+
 
 ##  Deep Learning
 Cross-group reading list, run by students from Honglak Lee, Satinder Singh, and Jia Deng's groups.
@@ -41,6 +44,9 @@ Sabour, Sara, et al.. "Dynamic Routing Between Capsules."
 
 Dai, Jifeng, et al.. "Deformable Convolutional Networks."
 </br>[[pdf]](https://arxiv.org/pdf/1703.06211.pdf)
+
+Wen, Tsung-Hsien, et al.. "A Network-based End-to-End Trainable Task-oriented Dialogue System."
+</br>[[pdf]](https://arxiv.org/pdf/1604.04562.pdf)
 
 # Université de Montréal Reading Lists
 
