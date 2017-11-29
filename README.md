@@ -110,3 +110,6 @@ Merity, Stephen, et al.. "Pointer Sentinel Mixture Models."
 
 Lample, Guillaume, et al.. "Unsupervised Machine Translation Using Monolingual Corpora Only."
 </br>[[pdf]](https://arxiv.org/pdf/1711.00043.pdf)
+
+Lake M., Brenden, et al.. "Still not systematic after all these years: On the compositional skills of sequence-to-sequence recurrent networks."
+</br>[[pdf]](https://arxiv.org/pdf/1711.00350.pdf)
