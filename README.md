@@ -48,7 +48,7 @@ Dai, Jifeng, et al.. "Deformable Convolutional Networks."
 Wen, Tsung-Hsien, et al.. "A Network-based End-to-End Trainable Task-oriented Dialogue System."
 </br>[[pdf]](https://arxiv.org/pdf/1604.04562.pdf)
 
-Levine, Sergey, et al.. "End-to-End Training of Deep visuomotor Policies."
+Levine, Sergey, et al.. "End-to-End Training of Deep Visuomotor Policies."
 </br>[[pdf]](https://arxiv.org/pdf/1504.00702.pdf)
 
 # Université de Montréal Reading Lists
